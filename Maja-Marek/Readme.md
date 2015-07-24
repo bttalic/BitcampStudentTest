@@ -1,0 +1,2 @@
+Komentari?
+Inace dobro.

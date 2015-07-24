@@ -1,0 +1,3 @@
+Cars mnozina, pa Employee jednina...
+Imena propertya velikim slovima
+Fali ti dosta funkcionalnosti

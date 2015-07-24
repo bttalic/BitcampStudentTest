@@ -1,0 +1,3 @@
+nema potrebe za this.parsing = Enum.TryParse(enumcondition, out condition);
+PawnShop treba da ima add/remove employee, inventoryitem...
+komentari?
